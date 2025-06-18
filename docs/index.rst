@@ -1,5 +1,5 @@
- How to Speak to a Human at Sling Tv: Step-by-Step Guide
-============================================
+How to Speak to a Human at Sling Tv: Step-by-Step Guide
+=========================================================
 
 .. toctree::
    :maxdepth: 2
